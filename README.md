@@ -18,6 +18,7 @@
     </td>
 </table>
 
+<details>
 <summary>Activity Graph 📈</summary>
   <br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Gab&theme=tokyo-night&line=5c00e6&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
